@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">practicaFundamentosAndroid</string>
+    <string name="test">This is a test</string>
+    <string name="test2">Another test</string>
+    <string name="holaquetal">Hi, how are u</string>
+    <string name="login">Login</string>
+    <string name="toast_text">This is Toast</string>
 </resources>
+
+
+
+

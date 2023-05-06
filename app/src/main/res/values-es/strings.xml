@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">practicaFundamentosAndroid</string>
+    <string name="test">Esto es un tests</string>
+    <string name="test2">Otro test</string>
+    <string name="holaquetal">Hola que tal!</string>
+    <string name="login">Login</string>
+    <string name="toast_text">Esto es un Toast!</string>
+</resources>
