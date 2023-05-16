@@ -1,12 +1,25 @@
 <resources>
     <string name="app_name">practicaFundamentosAndroid</string>
-    <string name="test">This is a test</string>
-    <string name="test2">Another test</string>
-    <string name="holaquetal">Hi, how are u</string>
+    <string name="title">DragonBall</string>
+    <string name="insert_your_name">Insert your name</string>
+    <string name="insert_your_password">Insert your password</string>
     <string name="login">Login</string>
-    <string name="toast_text">This is Toast</string>
-</resources>
+    <string name="invalid_password">Password must contains at least 3 chars</string>
+    <string name="invalid_user">User should not be empty</string>
+    <string name="invalid_credentials">User or password incorrect</string>
+    <string name="error_no_input">Something bad happened, try again later!</string>
+    <string name="hero_dead">%s is dead.</string>
+    <string name="receive_heal">Heal!</string>
+    <string name="receive_damage">Loose!</string>
+    <string name="fight_end">The fight is over!</string>
+    <string name="heal_everyone">Restart</string>
+    <string name="dialog_title">Game Over</string>
+    <string name="dialog_message">Do you want to restart the game?</string>
+    <string name="dialog_exit">Exit</string>
+    <string name="dialog_restart">Restart</string>
+    <string name="healed">Everyone was healed!</string>
 
+</resources>
 
 
 

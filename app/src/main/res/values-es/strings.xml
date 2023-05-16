@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">practicaFundamentosAndroid</string>
-    <string name="test">Esto es un tests</string>
-    <string name="test2">Otro test</string>
-    <string name="holaquetal">Hola que tal!</string>
-    <string name="login">Login</string>
-    <string name="toast_text">Esto es un Toast!</string>
+    <string name="title">Bola de Dragón</string>
+    <string name="insert_your_name">Introduce tu nombre</string>
+    <string name="insert_your_password">Introduce tu contraseña</string>
+    <string name="login">Entrar</string>
+    <string name="invalid_password">La contraseña debe tener al menos 3 caracteres</string>
+    <string name="invalid_user">El usuario no debe estar vacío</string>
+    <string name="error_no_input">Algo malo ha ocurrido, inténlo de nuevo más tarde</string>
+    <string name="hero_dead">%s está muerto</string>
+    <string name="fight_end">Ha perdido todas sus vidas</string>
+    <string name="receive_damage">¡Perder!</string>
+    <string name="heal_everyone">Reiniciar</string>
+    <string name="dialog_title">Fin del juego</string>
+    <string name="dialog_message">¿Quieres volver a jugar?</string>
+    <string name="dialog_exit">Salir</string>
+    <string name="dialog_restart">Volver a jugar</string>
+    <string name="healed">¡Reestablecer vidas!</string>
+    <string name="receive_heal">¡Curar!</string>
+    <string name="invalid_credentials">Usuario o contraseña incorrecta</string>
 </resources>

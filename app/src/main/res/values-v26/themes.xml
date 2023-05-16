@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.PracticaFundamentosAndroid.EditText" parent="Theme.PracticaFundamentosAndroid">
+        <item name="android:layout_marginHorizontal">@dimen/margin_medium</item>
+        <item name="android:ems">10</item>
+        <item name="android:elevation">2sp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:textColorHint">@color/grey</item>
+        <item name="android:backgroundTint">@color/blue</item>
+    </style>
+</resources>
